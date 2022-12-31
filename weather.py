@@ -1,4 +1,4 @@
-#importing modules
+
 import time
 from tkinter import *
 from tkinter import messagebox as mb
